@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QR", "QR\QR.csproj", "{B3B9D871-6CBF-45AA-9465-304C8B4BDC2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownloadWikipediaTables", "DownloadWikipediaTables\DownloadWikipediaTables.csproj", "{7DF6C471-FD75-450B-A373-014ABF8C16E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3B9D871-6CBF-45AA-9465-304C8B4BDC2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3B9D871-6CBF-45AA-9465-304C8B4BDC2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3B9D871-6CBF-45AA-9465-304C8B4BDC2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3B9D871-6CBF-45AA-9465-304C8B4BDC2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DF6C471-FD75-450B-A373-014ABF8C16E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF6C471-FD75-450B-A373-014ABF8C16E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF6C471-FD75-450B-A373-014ABF8C16E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF6C471-FD75-450B-A373-014ABF8C16E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24678005-81A0-46B1-92F3-350A88D0787B}
+	EndGlobalSection
+EndGlobal
