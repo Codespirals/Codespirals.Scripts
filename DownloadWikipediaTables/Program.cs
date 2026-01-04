@@ -14,8 +14,8 @@ namespace DownloadWikipediaTables
     {
         static async Task Main(string[] args)
         {
-            string saveFilePath = $"{Directory.GetDirectoryRoot(Directory.GetCurrentDirectory())}\\Files";
-            Directory.CreateDirectory(saveFilePath);
+            var saveFilePath = $"{Directory.GetCurrentDirectory()}\\Files";
+            _ = Directory.CreateDirectory(saveFilePath);
 
             while (true)
             {
